@@ -1,0 +1,463 @@
+{
+  "company": "YETI Holdings, Inc.",
+  "ticker": "YETI",
+  "generated_at": "2026-07-17",
+  "metrics_by_year": {
+    "2018": {
+      "EPSDiluted": {
+        "value": 0.69,
+        "validation_status": "unvalidated"
+      },
+      "GrossProfit": {
+        "value": 383128.0,
+        "validation_status": "unvalidated"
+      },
+      "NetIncome": {
+        "value": 57763.0,
+        "validation_status": "unvalidated"
+      },
+      "NetSales": {
+        "value": 778833.0,
+        "validation_status": "unvalidated"
+      }
+    },
+    "2024": {
+      "CapitalExpenditures": {
+        "value": 41832.0,
+        "validation_status": "unvalidated"
+      },
+      "Cash": {
+        "value": 358795.0,
+        "validation_status": "unvalidated"
+      },
+      "CostOfGoodsSold": {
+        "value": 766589.0,
+        "validation_status": "validated_match"
+      },
+      "DilutedSharesOutstanding": {
+        "value": 85755.0,
+        "validation_status": "unvalidated"
+      },
+      "EPSDiluted": {
+        "value": 2.05,
+        "validation_status": "unvalidated"
+      },
+      "FreeCashFlow": {
+        "value": 219554.0,
+        "validation_status": "unvalidated"
+      },
+      "GrossProfit": {
+        "value": 1063284.0,
+        "validation_status": "validated_match"
+      },
+      "Inventory": {
+        "value": 310058.0,
+        "validation_status": "validated_match"
+      },
+      "NetIncome": {
+        "value": 175689.0,
+        "validation_status": "validated_match"
+      },
+      "NetSales": {
+        "value": 1829873.0,
+        "validation_status": "validated_match"
+      },
+      "OperatingCashFlow": {
+        "value": 261386.0,
+        "validation_status": "unvalidated"
+      },
+      "OperatingIncome": {
+        "value": 245376.0,
+        "validation_status": "validated_match"
+      },
+      "SGAExpenses": {
+        "value": 817908.0,
+        "validation_status": "validated_match"
+      },
+      "StockholdersEquity": {
+        "value": 740107.0,
+        "validation_status": "unvalidated"
+      },
+      "TotalAssets": {
+        "value": 1286120.0,
+        "validation_status": "validated_match"
+      },
+      "TotalLiabilities": {
+        "value": 546013.0,
+        "validation_status": "unvalidated"
+      }
+    },
+    "2025": {
+      "CapitalExpenditures": {
+        "value": 42667.0,
+        "validation_status": "unvalidated"
+      },
+      "Cash": {
+        "value": 188342.0,
+        "validation_status": "validated_match"
+      },
+      "CostOfGoodsSold": {
+        "value": 795810.0,
+        "validation_status": "validated_match"
+      },
+      "DilutedSharesOutstanding": {
+        "value": 81595.0,
+        "validation_status": "unvalidated"
+      },
+      "EPSDiluted": {
+        "value": 2.03,
+        "validation_status": "unvalidated"
+      },
+      "FreeCashFlow": {
+        "value": 212070.0,
+        "validation_status": "unvalidated"
+      },
+      "GrossProfit": {
+        "value": 1072684.0,
+        "validation_status": "validated_match"
+      },
+      "Inventory": {
+        "value": 290611.0,
+        "validation_status": "validated_match"
+      },
+      "NetIncome": {
+        "value": 165387.0,
+        "validation_status": "validated_match"
+      },
+      "NetSales": {
+        "value": 1868494.0,
+        "validation_status": "validated_match"
+      },
+      "OperatingCashFlow": {
+        "value": 254737.0,
+        "validation_status": "unvalidated"
+      },
+      "OperatingIncome": {
+        "value": 213557.0,
+        "validation_status": "validated_match"
+      },
+      "SGAExpenses": {
+        "value": 859127.0,
+        "validation_status": "unvalidated"
+      },
+      "StockholdersEquity": {
+        "value": 650276.0,
+        "validation_status": "unvalidated"
+      },
+      "TotalAssets": {
+        "value": 1235418.0,
+        "validation_status": "validated_match"
+      },
+      "TotalLiabilities": {
+        "value": 585142.0,
+        "validation_status": "validated_match"
+      }
+    }
+  },
+  "validations": [
+    {
+      "fiscal_year": 2024,
+      "metric_name": "CostOfGoodsSold",
+      "value_source_a": "manual",
+      "value_a": 766589.0,
+      "value_source_b": "xbrl_api",
+      "value_b": 766589.0,
+      "pct_difference": 0.0,
+      "status": "match"
+    },
+    {
+      "fiscal_year": 2024,
+      "metric_name": "CostOfGoodsSold",
+      "value_source_a": "manual",
+      "value_a": 766589.0,
+      "value_source_b": "xbrl_api",
+      "value_b": 766589.0,
+      "pct_difference": 0.0,
+      "status": "match"
+    },
+    {
+      "fiscal_year": 2024,
+      "metric_name": "GrossProfit",
+      "value_source_a": "manual",
+      "value_a": 1063284.0,
+      "value_source_b": "xbrl_api",
+      "value_b": 1063284.0,
+      "pct_difference": 0.0,
+      "status": "match"
+    },
+    {
+      "fiscal_year": 2024,
+      "metric_name": "GrossProfit",
+      "value_source_a": "manual",
+      "value_a": 1063284.0,
+      "value_source_b": "xbrl_api",
+      "value_b": 1063284.0,
+      "pct_difference": 0.0,
+      "status": "match"
+    },
+    {
+      "fiscal_year": 2024,
+      "metric_name": "Inventory",
+      "value_source_a": "manual",
+      "value_a": 310058.0,
+      "value_source_b": "pdf_table",
+      "value_b": 310058.0,
+      "pct_difference": 0.0,
+      "status": "match"
+    },
+    {
+      "fiscal_year": 2024,
+      "metric_name": "Inventory",
+      "value_source_a": "manual",
+      "value_a": 310058.0,
+      "value_source_b": "pdf_table",
+      "value_b": 310058.0,
+      "pct_difference": 0.0,
+      "status": "match"
+    },
+    {
+      "fiscal_year": 2024,
+      "metric_name": "NetIncome",
+      "value_source_a": "manual",
+      "value_a": 175689.0,
+      "value_source_b": "xbrl_api",
+      "value_b": 175689.0,
+      "pct_difference": 0.0,
+      "status": "match"
+    },
+    {
+      "fiscal_year": 2024,
+      "metric_name": "NetIncome",
+      "value_source_a": "manual",
+      "value_a": 175689.0,
+      "value_source_b": "xbrl_api",
+      "value_b": 175689.0,
+      "pct_difference": 0.0,
+      "status": "match"
+    },
+    {
+      "fiscal_year": 2024,
+      "metric_name": "NetSales",
+      "value_source_a": "manual",
+      "value_a": 1829873.0,
+      "value_source_b": "xbrl_api",
+      "value_b": 1829873.0,
+      "pct_difference": 0.0,
+      "status": "match"
+    },
+    {
+      "fiscal_year": 2024,
+      "metric_name": "NetSales",
+      "value_source_a": "manual",
+      "value_a": 1829873.0,
+      "value_source_b": "xbrl_api",
+      "value_b": 1829873.0,
+      "pct_difference": 0.0,
+      "status": "match"
+    },
+    {
+      "fiscal_year": 2024,
+      "metric_name": "OperatingIncome",
+      "value_source_a": "manual",
+      "value_a": 245376.0,
+      "value_source_b": "xbrl_api",
+      "value_b": 245376.0,
+      "pct_difference": 0.0,
+      "status": "match"
+    },
+    {
+      "fiscal_year": 2024,
+      "metric_name": "OperatingIncome",
+      "value_source_a": "manual",
+      "value_a": 245376.0,
+      "value_source_b": "xbrl_api",
+      "value_b": 245376.0,
+      "pct_difference": 0.0,
+      "status": "match"
+    },
+    {
+      "fiscal_year": 2024,
+      "metric_name": "SGAExpenses",
+      "value_source_a": "manual",
+      "value_a": 817908.0,
+      "value_source_b": "xbrl_api",
+      "value_b": 817908.0,
+      "pct_difference": 0.0,
+      "status": "match"
+    },
+    {
+      "fiscal_year": 2024,
+      "metric_name": "SGAExpenses",
+      "value_source_a": "manual",
+      "value_a": 817908.0,
+      "value_source_b": "xbrl_api",
+      "value_b": 817908.0,
+      "pct_difference": 0.0,
+      "status": "match"
+    },
+    {
+      "fiscal_year": 2024,
+      "metric_name": "TotalAssets",
+      "value_source_a": "manual",
+      "value_a": 1286120.0,
+      "value_source_b": "pdf_table",
+      "value_b": 1286120.0,
+      "pct_difference": 0.0,
+      "status": "match"
+    },
+    {
+      "fiscal_year": 2024,
+      "metric_name": "TotalAssets",
+      "value_source_a": "manual",
+      "value_a": 1286120.0,
+      "value_source_b": "pdf_table",
+      "value_b": 1286120.0,
+      "pct_difference": 0.0,
+      "status": "match"
+    },
+    {
+      "fiscal_year": 2025,
+      "metric_name": "Cash",
+      "value_source_a": "manual",
+      "value_a": 188342.0,
+      "value_source_b": "pdf_table",
+      "value_b": 188342.0,
+      "pct_difference": 0.0,
+      "status": "match"
+    },
+    {
+      "fiscal_year": 2025,
+      "metric_name": "CostOfGoodsSold",
+      "value_source_a": "manual",
+      "value_a": 795810.0,
+      "value_source_b": "pdf_table",
+      "value_b": 795810.0,
+      "pct_difference": 0.0,
+      "status": "match"
+    },
+    {
+      "fiscal_year": 2025,
+      "metric_name": "GrossProfit",
+      "value_source_a": "manual",
+      "value_a": 1072684.0,
+      "value_source_b": "pdf_table",
+      "value_b": 1072684.0,
+      "pct_difference": 0.0,
+      "status": "match"
+    },
+    {
+      "fiscal_year": 2025,
+      "metric_name": "Inventory",
+      "value_source_a": "manual",
+      "value_a": 290611.0,
+      "value_source_b": "pdf_table",
+      "value_b": 290611.0,
+      "pct_difference": 0.0,
+      "status": "match"
+    },
+    {
+      "fiscal_year": 2025,
+      "metric_name": "NetIncome",
+      "value_source_a": "manual",
+      "value_a": 165387.0,
+      "value_source_b": "pdf_table",
+      "value_b": 165387.0,
+      "pct_difference": 0.0,
+      "status": "match"
+    },
+    {
+      "fiscal_year": 2025,
+      "metric_name": "NetSales",
+      "value_source_a": "manual",
+      "value_a": 1868494.0,
+      "value_source_b": "pdf_table",
+      "value_b": 1868494.0,
+      "pct_difference": 0.0,
+      "status": "match"
+    },
+    {
+      "fiscal_year": 2025,
+      "metric_name": "OperatingIncome",
+      "value_source_a": "manual",
+      "value_a": 213557.0,
+      "value_source_b": "pdf_table",
+      "value_b": 213557.0,
+      "pct_difference": 0.0,
+      "status": "match"
+    },
+    {
+      "fiscal_year": 2025,
+      "metric_name": "TotalAssets",
+      "value_source_a": "manual",
+      "value_a": 1235418.0,
+      "value_source_b": "pdf_table",
+      "value_b": 1235418.0,
+      "pct_difference": 0.0,
+      "status": "match"
+    },
+    {
+      "fiscal_year": 2025,
+      "metric_name": "TotalLiabilities",
+      "value_source_a": "manual",
+      "value_a": 585142.0,
+      "value_source_b": "pdf_table",
+      "value_b": 585142.0,
+      "pct_difference": 0.0,
+      "status": "match"
+    }
+  ],
+  "sources": [
+    {
+      "raw_id": 1,
+      "source_type": "market_data_api",
+      "source_url": "https://investors.yeti.com/news/news-details/2026/YETI-ReportsFourth-Quarter-and-Full-Year-2025-Results-Provides-Full-Year-2026-Outlook/default.aspx",
+      "retrieved_at": "2026-07-17T06:32:08.489751+00:00",
+      "fiscal_year": 2025,
+      "fiscal_period": "FY"
+    },
+    {
+      "raw_id": 2,
+      "source_type": "sec_10k_htm",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1670592/000167059225000008/R5.htm",
+      "retrieved_at": "2026-07-17T06:32:08.489751+00:00",
+      "fiscal_year": 2024,
+      "fiscal_period": "FY"
+    },
+    {
+      "raw_id": 3,
+      "source_type": "sec_10k_htm",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1670592/000167059226000013/yeti-20260103.htm",
+      "retrieved_at": "2026-07-17T06:32:08.489751+00:00",
+      "fiscal_year": 2024,
+      "fiscal_period": "FY"
+    },
+    {
+      "raw_id": 4,
+      "source_type": "sec_10k_pdf",
+      "source_url": "https://s22.q4cdn.com/322452763/files/doc_news/YETI-ReportsFourth-Quarter-and-Full-Year-2025-Results-Provides-Full-Year-2026-Outlook-2026.pdf",
+      "retrieved_at": "2026-07-17T12:08:27.114208+00:00",
+      "fiscal_year": 2025,
+      "fiscal_period": "FY"
+    }
+  ],
+  "pipeline_runs": [
+    {
+      "run_id": 1,
+      "started_at": "2026-07-17T06:32:08.489751+00:00",
+      "finished_at": "2026-07-17T06:32:08.709683+00:00",
+      "status": "success",
+      "companies_processed": 1,
+      "records_ingested": 44,
+      "errors_count": 0
+    },
+    {
+      "run_id": 2,
+      "started_at": "2026-07-17T06:32:08.746456+00:00",
+      "finished_at": "2026-07-17T06:32:08.783407+00:00",
+      "status": "success",
+      "companies_processed": 1,
+      "records_ingested": 0,
+      "errors_count": 0
+    }
+  ]
+}

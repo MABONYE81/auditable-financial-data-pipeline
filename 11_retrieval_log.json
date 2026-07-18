@@ -1,0 +1,32 @@
+{
+  "retrieval_batch": "2026-07-17T00:00:00Z",
+  "method": "manual verified retrieval via web search + web fetch (live XBRL JSON API endpoint not directly fetchable from this sandbox - see docs/02_retrieval_method_note.md)",
+  "sources": [
+    {
+      "source_id": 1,
+      "description": "YETI Q4 & Full Year 2025 earnings press release (official investor relations page) - income statement, balance sheet, cash flow, GAAP-to-non-GAAP reconciliation for FY2025 (ended 2026-01-03) and FY2024 (ended 2024-12-28)",
+      "source_url": "https://investors.yeti.com/news/news-details/2026/YETI-ReportsFourth-Quarter-and-Full-Year-2025-Results-Provides-Full-Year-2026-Outlook/default.aspx",
+      "retrieved_at": "2026-07-17T00:00:00Z",
+      "publisher": "YETI Holdings Inc. / GlobeNewswire",
+      "filing_date": "2026-02-19"
+    },
+    {
+      "source_id": 2,
+      "description": "YETI FY2024 10-K filing index (SEC EDGAR) - confirms accession number, filing date, period of report, and links to the primary 10-K document",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1670592/000167059225000008/0001670592-25-000008-index.htm",
+      "retrieved_at": "2026-07-17T00:00:00Z",
+      "publisher": "U.S. Securities and Exchange Commission (EDGAR)",
+      "filing_date": "2025-02-24",
+      "accession_number": "0001670592-25-000008",
+      "cik": "0001670592"
+    },
+    {
+      "source_id": 3,
+      "description": "YETI 2018 Form 10-K (first annual report post-IPO) - five-year selected financial data table",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1670592/000155837019002297/yeti-20181229x10k.htm",
+      "retrieved_at": "2026-07-17T00:00:00Z",
+      "publisher": "U.S. Securities and Exchange Commission (EDGAR)",
+      "cik": "0001670592"
+    }
+  ]
+}
